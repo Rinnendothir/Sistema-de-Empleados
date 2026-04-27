@@ -4,24 +4,6 @@ Sistema de nómina empresarial desarrollado en Python que maneja
 Diferentes tipos de empleados, calcula salarios automáticamente
 y genera reportes detallados por departamento.
 
-## Demo
-REPORTE DE NÓMINA — TechCorp Colombia
-📁 TECNOLOGÍA (3 empleados)
-[G001] Carlos Pérez | Gerente | Dpto: Tecnología | Salario: $10,000,000 COP
-[E001] Luis Torres | Empleado Fijo | Dpto: Tecnología | Salario: $4,500,000 COP
-[E002] María López | Por Horas | Dpto: Tecnología | Salario: $7,200,000 COP
-────────────────────────────────────────
-Subtotal: $21,700,000 COP
-📁 VENTAS (3 empleados)
-[G002] Ana García | Gerente | Dpto: Ventas | Salario: $9,000,000 COP
-[E003] Pedro Ruiz | Empleado Fijo | Dpto: Ventas | Salario: $3,200,000 COP
-[E004] Sofía Castro | Por Horas | Dpto: Ventas | Salario: $4,900,000 COP
-────────────────────────────────────────
-Subtotal: $17,100,000 COP
-============================================================
-NÓMINA TOTAL: $38.800.000 COP
-EMPLEADOS:    6
-
 ## Características
 
 - Tres tipos de empleados con cálculo de salario independiente
